@@ -1,6 +1,6 @@
 # AWS Terraform Install
 
-<div id="badges" align="center">
+<div>
 <img alt="GitHub milestones" src="https://img.shields.io/github/milestones/all/BenjaminBurton/aws-terraform-install?style=for-the-badge" width="100">
 </div>
 
