@@ -1,4 +1,4 @@
-# Terraform Install
+# Terraform NGINX Install
 
 <div>
 <img alt="GitHub milestones" src="https://img.shields.io/github/milestones/all/BenjaminBurton/aws-terraform-install?style=for-the-badge" width="100">
@@ -11,7 +11,7 @@
 
 My Personal Documentation 
 
-## Intro for project setup
+## Terraform NGINX webserver setup
 
 Steps Involved:
 
