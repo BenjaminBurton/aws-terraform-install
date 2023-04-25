@@ -2,6 +2,7 @@
 
 <div>
 <img alt="GitHub milestones" src="https://img.shields.io/github/milestones/all/BenjaminBurton/aws-terraform-install?style=for-the-badge" width="100">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/BenjaminBurton/aws-terraform-install?style=social">
 </div>
 
 :wave: :wave: :wave: :wave: :wave:
